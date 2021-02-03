@@ -6,6 +6,8 @@ This repo contains the collection of projects designed and executed during my te
   * Facial keypoints define certain landmarks on the face such as eyes, nose, mouth, etc. These are usually usefull information in applications such as face detection, emotion recognition, expression recognition, etc.
 * **Project2 - Image Captioning**
   * Image captioning is an useful service that helps in describing photos automatically on social media or to visually disabled people. This project uses an encoder-decoder architecture to implement a simple caption generator.
+* **Project3 - Landmark Detection & Tracking**
+  * Object localization & tracking is one of the biggest topic of research in the present day. SLAM is used mainly in robotics & autonomous driving vehicles. This project explores the implimentation of SLAM technique for locating landmarks around the object of interest and determining its location post sensor readings.
 * **Pytorch Practice**
   * The framework used in the nano degree was pytorch. A hands-on semi-course was provided as a part of it to understand the designing/development of neural net models using pytorch
 * **YOLO Object Detection**
